@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Cards</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Hugo Cards</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-CH</language>
+    <lastBuildDate>Tue, 01 Dec 2020 17:46:59 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Effet Covid : Evolution Des Hypotheses et adaptations</title>
+      <link>http://example.org/posts/effetcovid-evolutiondeshypotheses/</link>
+      <pubDate>Tue, 01 Dec 2020 17:46:59 +0100</pubDate>
+      
+      <guid>http://example.org/posts/effetcovid-evolutiondeshypotheses/</guid>
+      <description>Après avoir spéculé au début de la pendémie, UXBooth tire sur des faits par rapport à l&amp;rsquo;évolution de l&amp;rsquo;utilisations des plateformes numériques. Avec la crise sanitaire, il est observable qu&amp;rsquo;une forte augmentation de l&amp;rsquo;utilisation des espaces numériques. Notamment avec la COVID-19, des personnes âgés utilisent d&amp;rsquo;autres services numérique que celle des appels vidéo.
+La crise du Coronavirus a accéléré la conversion numérique, notamment des personnes âgés Avec la pendémie de la COVID-19, une grande partie de la socialisation se déroule en ligne comme le télétravail, les cours en ligne ou l&amp;rsquo;augmentation de l&amp;rsquo;e-commerce.</description>
+    </item>
+    
+    <item>
+      <title>Agile UX : 5 façons dont Agile UX peut révolutionner votre entreprise</title>
+      <link>http://example.org/posts/agileux/</link>
+      <pubDate>Mon, 16 Nov 2020 19:19:27 +0100</pubDate>
+      
+      <guid>http://example.org/posts/agileux/</guid>
+      <description>L&amp;rsquo;auteur de l&amp;rsquo;article, Renato Lopez, Directeur de la création chez Very Big Things Fort Lauderdale, en Floride (USA), partage 5 façons que l&amp;rsquo;UX agile peut avoir comme impact sur les résultats des entreprises. L&amp;rsquo;UX Agile est le lien entre les principes de la conception UX et une méthode de développement logiciel agile(1). Cela représente une collaboration entre la conception et le devloppement. Le plus grand défi, c&amp;rsquo;est que l&amp;rsquo;équipe de la conception et l&amp;rsquo;équipe du devloppement doivent &amp;ldquo;parler la même langue&amp;rdquo; pour qu&amp;rsquo;au final, l&amp;rsquo;expérience utilisateur soit optimale.</description>
+    </item>
+    
+  </channel>
+</rss>
