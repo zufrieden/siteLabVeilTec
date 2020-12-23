@@ -34,7 +34,7 @@ Une autre dépendance existe : les pages sans fin. L'utilisateur peut scroller, 
 
 
 
-#### Ce que je retiens et mon point de vue concernant cette article
+#### Ce que je retiens et mon point de vue concernant cet article
 
 Il faut tout faire pour que l'utilisateur ne soit pas agacé par l'expérience qui le procure lors de sa visite sur notre site. L'auteure de l'article nous prends contient qu'un site web doit être agréable pour l'utilisateur en ayant du contenu honnêtes, tout en pas être dérangé et de ne pas se trouver dans un couloir sans fin. Un site web est comme une vitrine d'un magasin.
 

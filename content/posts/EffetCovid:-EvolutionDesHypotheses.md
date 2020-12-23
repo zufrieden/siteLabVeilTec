@@ -8,7 +8,7 @@ Après avoir spéculé au début de la pendémie, UXBooth tire sur des faits par
 
 
 
-##### La crise du Coronavirus a accéléré la conversion numérique, notamment des personnes âgés
+#### La crise du Coronavirus a accéléré la conversion numérique, notamment des personnes âgés
 
 Avec la pendémie de la COVID-19, une grande partie de la socialisation se déroule en ligne comme le télétravail, les cours en ligne ou l'augmentation de l'e-commerce. L'article mentionne d'abord que les personnes âgées utilisent d'autres applications que celle des appels vidéo. D'après un sondage, presque une personne sur deux utilisent plus les outils numériques qu'en début de l'année. Les personnes à l'âge de la retraitre utilisent cette application pour faire des tâches quotidiennes comme payer les factures, faires les courses en ligne mais aussi pour se divertir sur les réseaux sociaux. Malheureusement, beaucoup de site et d'application ne sont pas adapté pour ces personnes-là.
 
@@ -18,19 +18,19 @@ La pendémie a donc joué un rôle d'accélérateur en un laps de temps sur cett
 
 
 
-##### Faire en sorte que se soit simple comme des objets "rétro"
+#### Faire en sorte que se soit simple comme des objets "rétro"
 
 Il faut que les personnes aient l'habitude de ce qu'ils utilisent (ou utilisaient) physiquement que numériquement. Maintenant, il est possible de lire, écrire, regarder, écouter ou téléphoner sur une même machine qu'à l'époque, il fallait avoir différents supports (VHS, vyniles, machine à écrire, téléphone fixe, ...). Il faut que c'est même activité soit aussi simple à utiliser sur les ordinateurs, tablettes et smartphone. 
 
 
 
-##### Premières hypothèses 
+#### Premières hypothèses 
 
 Il y a deux hypothèses sur les personnes âgés que l'article met sur la table. La première est que ce groupe de personne ne vont jamais s'adapter à la technologie. En effet, la plupart des produits n'offre pas d'esthétique. La seconde hypothèse est que les produits pour les générations plus âgés doivent être juste fonctionnels et d'avoir une esthétique "non laide". 
 
 
 
-#### Ce que je retiens concernant cette article pour ma veille
+#### Ce que je retiens concernant cet article
 
 Cette article de UXBooth est très intéressant et important pour mon domaine ! En effet, grâce à (ou plutôt à cause de) la pandémie, il y a eu une augmentation de personne qui utilisent des supports numériques. Des adolescents, jeunes adultes, parents et personnes âgés se connectent pour faire divers tâches comme se divertir mais aussi les tâches administratives ou faire les courses. Les services ou produits proposés dôivent être adaptés pour tous les utilisateurs. Avec le (semi-)confinement, une forte augmentation de l'utilisation des appareils numériques a été observé. Il faut maintenant réfléchir à devlopper des logiciels pour tous et ne plus se concentrer sur un public cible. Même si une application est destinée aux adolescents, il faut qu'une personne âgés puissent aussi comprendre comment l'utiliser et donc être simple. De plus, le nombre de la population âgée qui est active et en bonne santé est en constante augmentation dans le monde. Ils sont beaucoup de temps libre est donc du temps pour ce concentrer sur des activités numériques. 
 
