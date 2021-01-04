@@ -1,6 +1,6 @@
-baseurl = "http://example.org/"
+baseurl = "https://Andreanefer.github.io/siteLabVeilTec"
 languageCode = "fr-CH"
-title = "Hugo Cards"
+title = "Lab Veille Technologique"
 theme = "hugo-cards"
 paginate = 6
 
