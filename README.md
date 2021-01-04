@@ -5,6 +5,8 @@ Ce repot regroupe les articles qui concernent pour le cours LabVeilTech. Il y a 
 
 ## installer le projet
 
+Installer [Hugo](https://gohugo.io)
+
 Installer le thème hugo-cards
 ```
 $ git submodule init
